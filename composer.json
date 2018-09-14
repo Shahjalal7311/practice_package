@@ -1,6 +1,6 @@
 {
-    "name": "Time Zone",
-    "description": "Time Zone",
+    "name": "Time_Zone",
+    "description": "Time_Zone",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
