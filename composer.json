@@ -1,6 +1,6 @@
 {
-    "name": "Time/Zone/7311",
-    "description": "Time/Zone/7311",
+    "name": "bdtime/bdzone",
+    "description": "bdtime/bdzone",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
