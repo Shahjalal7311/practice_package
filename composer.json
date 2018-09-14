@@ -3,7 +3,7 @@
     "description": "bdtime12/bdzone12",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
-    "type": "test project",
+    "type": "project",
     "require": {
         "php": "^7.0.0",
         "fideloper/proxy": "^4.0",
