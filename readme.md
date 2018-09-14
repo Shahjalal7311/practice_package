@@ -16,7 +16,8 @@
     	Laraveldaily\Timezones\TimezonesServiceProvider::class,
     ]
 
-##Published the Service Provider 
+
+## Published the Service Provider 
 -run this command
 -php artisan vendor:publish
 -published [Laraveldaily\Timezones\TimezonesServiceProvider]
